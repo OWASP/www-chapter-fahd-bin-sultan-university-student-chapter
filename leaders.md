@@ -1,4 +1,4 @@
 ### Leaders
-* [Ahmed Shatnawi: Faculty Advisor](mailto:ashatnawi@fbsu.edu.sa)
-* [Mohammad Hujooj: Faculty Advisor](mailto:mhujooj@fbsu.edu.sa)
-* [Ahmad AlFallah](mailto:AlFalah@fbsu.edu.sa)
+* [Ahmed Shatnawi: Faculty Advisor](mailto:ahmed.shatnawi@owasp.org)
+* [Mohammad Hujooj: Faculty Advisor](mailto:mohammad.hujooj@owasp.org)
+* [Ahmad AlFallah](mailto:ahmad.alFallah@owasp.org)
